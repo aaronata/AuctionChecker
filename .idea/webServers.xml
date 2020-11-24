@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ad609a5f-73f2-4da5-82d1-c9e7309c1417" name="AARON-WEBSERVER" url="http://localhost">
+        <fileTransfer host="192.168.42.52" port="42069">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>AARONSERVERS</name>
+        <servers>
+          <name value="AARON-WEBSERVER" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</project>
