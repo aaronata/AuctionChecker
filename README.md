@@ -13,6 +13,8 @@ webhookurl = Insert_URL_Here
 
 You also will need to change the zip code on the `auctionchecker.py` file. Don’t touch the distance unless you know what your doing, the sites are picky as to what value is there.
 
+Provided is a bat file that runs python. I personally use this with the Microsoft Task Scheduler for scheduled run times.
+
 ## Using just the scraper
 You can also do your own thing with this. The website scraper is entirely located within `AuctionScraper.py`
 I put lots of comments in it while learning BeautifulSoup. It should be very easy to learn what its doing.
