@@ -7,6 +7,8 @@ This currently supports the sites:
 * **craigslist.comm**
 
 ## Using my crappy discord hook
+First, install this library for the discord-webhook to work. https://github.com/lovvskillz/python-discord-webhook
+
 I designed it to update two discord webhooks as I also run this for a friend.
 You will probably need to remove one of them in `discordpost.py`.
 I also have it set up so the webhook urls are in an .ini file. Just manually input the url in place if the configparser line.
