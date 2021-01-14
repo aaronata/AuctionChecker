@@ -30,3 +30,6 @@ Superlogics
 emc
 avocent
 blade
+Radeon
+evga
+gtx
